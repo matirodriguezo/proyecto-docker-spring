@@ -23,3 +23,5 @@
 2026-04-01 21:46:37.395  INFO 13608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9994 (http) with context path ''
 2026-04-01 21:46:37.405  INFO 13608 --- [main] com.example.demo.Demo03Application       : Started Demo03Application in 1.953 seconds (JVM running for 2.734)
 2026-04-01 21:46:43.371  INFO 13608 --- [http-nio-9994-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-01 21:46:43.371  INFO 13608 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-04-01 21:46:43.372  INFO 13608 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms

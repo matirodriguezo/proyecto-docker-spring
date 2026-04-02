@@ -5,8 +5,6 @@ services:
     image: postgres:latest
     build:
       context: ./postgres
-    ports:
-      - "5440:5432"
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: "1234"
