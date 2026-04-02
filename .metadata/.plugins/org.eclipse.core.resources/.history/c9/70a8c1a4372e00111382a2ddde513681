@@ -106,20 +106,13 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/x
 <plugins>
 
 <plugin>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-maven-plugin</artifactId>
-    <version>3.5.3</version>
-    <configuration>
-        <mainClass>com.example.demo.Demo03Application</mainClass>
-        <layout>JAR</layout>
-    </configuration>
-    <executions>
-        <execution>
-            <goals>
-                <goal>repackage</goal>
-            </goals>
-        </execution>
-    </executions>
+
+<groupId>org.springframework.boot</groupId>
+
+<artifactId>spring-boot-maven-plugin</artifactId>
+
+<version>3.5.3</version>
+
 </plugin>
 
 <plugin>
