@@ -1,0 +1,25 @@
+2026-04-01 21:32:29.593  INFO 7696 --- [main] com.example.demo.Demo03Application       : Starting Demo03Application using Java 17.0.4.1 on DESKTOP-HEC0Q8E with PID 7696 (C:\Users\Mati\Desktop\Proyecto M-F\Coso\Coso\work\demo03\target\classes started by Mati in C:\Users\Mati\Desktop\Proyecto M-F\Coso\Coso\work\demo03)
+2026-04-01 21:32:29.600  INFO 7696 --- [main] com.example.demo.Demo03Application       : No active profile set, falling back to default profiles: default
+2026-04-01 21:32:30.795  INFO 7696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9994 (http)
+2026-04-01 21:32:30.814  INFO 7696 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-01 21:32:30.815  INFO 7696 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2026-04-01 21:32:30.929  INFO 7696 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-01 21:32:30.930  INFO 7696 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1248 ms
+2026-04-01 21:32:31.300  INFO 7696 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-04-01 21:32:31.548  INFO 7696 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9994 (http) with context path ''
+2026-04-01 21:32:31.560  INFO 7696 --- [main] com.example.demo.Demo03Application       : Started Demo03Application in 2.501 seconds (JVM running for 3.503)
+2026-04-01 21:32:38.159  INFO 7696 --- [http-nio-9994-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-04-01 21:32:38.161  INFO 7696 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-04-01 21:32:38.164  INFO 7696 --- [http-nio-9994-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2026-04-01 21:46:17.672  INFO 7696 --- [RMI TCP Connection(21)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2026-04-01 21:46:35.910  INFO 13608 --- [main] com.example.demo.Demo03Application       : Starting Demo03Application using Java 17.0.4.1 on DESKTOP-HEC0Q8E with PID 13608 (C:\Users\Mati\Desktop\Proyecto M-F\Coso\Coso\work\demo03\target\classes started by Mati in C:\Users\Mati\Desktop\Proyecto M-F\Coso\Coso\work\demo03)
+2026-04-01 21:46:35.914  INFO 13608 --- [main] com.example.demo.Demo03Application       : No active profile set, falling back to default profiles: default
+2026-04-01 21:46:36.787  INFO 13608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9994 (http)
+2026-04-01 21:46:36.797  INFO 13608 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-04-01 21:46:36.798  INFO 13608 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2026-04-01 21:46:36.901  INFO 13608 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2026-04-01 21:46:36.901  INFO 13608 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 923 ms
+2026-04-01 21:46:37.211  INFO 13608 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2026-04-01 21:46:37.395  INFO 13608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9994 (http) with context path ''
+2026-04-01 21:46:37.405  INFO 13608 --- [main] com.example.demo.Demo03Application       : Started Demo03Application in 1.953 seconds (JVM running for 2.734)
+2026-04-01 21:46:43.371  INFO 13608 --- [http-nio-9994-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
