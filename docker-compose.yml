@@ -3,7 +3,6 @@ version: '3'
 services:
   postgres:
     image: postgres:latest
-    container_name: postgres
     build:
       context: ./postgres
     ports:
@@ -17,7 +16,6 @@ services:
 
   demo02:
     image: franc029/demo02:latest
-    container_name: demo02
     build:
       context: ./demo02
     environment:
@@ -31,7 +29,6 @@ services:
 
   demo03:
     image: franc029/demo03:latest
-    container_name: demo03
     build:
       context: ./demo03
     ports:
